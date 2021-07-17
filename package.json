@@ -3,6 +3,7 @@
 	"displayName": "my-first-extension",
 	"description": "display a message",
 	"version": "0.0.1",
+	"publisher": "sebastianiturra",
 	"engines": {
 		"vscode": "^1.58.0"
 	},
